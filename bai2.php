@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$database = "baitapphp_1";
+$database = "btvn5";
 $connection = mysqli_connect($servername,$username,$password);
 
 if(!$connection)
